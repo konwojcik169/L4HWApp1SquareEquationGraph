@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Square Equation Chart</string>
+    <string name="editText">Enter a</string>
+    <string name="editText2">Enter b</string>
+    <string name="editText3">Enter c</string>
+    <string name="textView"> </string>
+    <string name="textView2"> </string>
+    <string name="textView3"> </string>
+    <string name="textView4"> </string>
+    <string name="textView5"> </string>
+    <string name="button">Calculate</string>
+    <string name="button2">Draw graph</string>
+</resources>
